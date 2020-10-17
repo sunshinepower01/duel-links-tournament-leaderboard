@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/duel-links-tournament-leaderboard/static/css/main.5f361e03.chunk.css",
-    "main.js": "/duel-links-tournament-leaderboard/static/js/main.c9f1b2b0.chunk.js",
-    "main.js.map": "/duel-links-tournament-leaderboard/static/js/main.c9f1b2b0.chunk.js.map",
+    "main.css": "/duel-links-tournament-leaderboard/static/css/main.fd42ff4a.chunk.css",
+    "main.js": "/duel-links-tournament-leaderboard/static/js/main.c51b3f09.chunk.js",
+    "main.js.map": "/duel-links-tournament-leaderboard/static/js/main.c51b3f09.chunk.js.map",
     "runtime-main.js": "/duel-links-tournament-leaderboard/static/js/runtime-main.0e95cb30.js",
     "runtime-main.js.map": "/duel-links-tournament-leaderboard/static/js/runtime-main.0e95cb30.js.map",
-    "static/js/2.66a9bc22.chunk.js": "/duel-links-tournament-leaderboard/static/js/2.66a9bc22.chunk.js",
-    "static/js/2.66a9bc22.chunk.js.map": "/duel-links-tournament-leaderboard/static/js/2.66a9bc22.chunk.js.map",
+    "static/css/2.e10332d9.chunk.css": "/duel-links-tournament-leaderboard/static/css/2.e10332d9.chunk.css",
+    "static/js/2.1676e3d9.chunk.js": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js",
+    "static/js/2.1676e3d9.chunk.js.map": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js.map",
     "index.html": "/duel-links-tournament-leaderboard/index.html",
-    "precache-manifest.5d3767aa2b078aecc7b34b45c636caa9.js": "/duel-links-tournament-leaderboard/precache-manifest.5d3767aa2b078aecc7b34b45c636caa9.js",
+    "precache-manifest.faed7cd14d6eae053d10d607e15f20e5.js": "/duel-links-tournament-leaderboard/precache-manifest.faed7cd14d6eae053d10d607e15f20e5.js",
     "service-worker.js": "/duel-links-tournament-leaderboard/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/duel-links-tournament-leaderboard/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.66a9bc22.chunk.js.LICENSE.txt": "/duel-links-tournament-leaderboard/static/js/2.66a9bc22.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/duel-links-tournament-leaderboard/static/media/logo.5d5d9eef.svg"
+    "static/css/2.e10332d9.chunk.css.map": "/duel-links-tournament-leaderboard/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.fd42ff4a.chunk.css.map": "/duel-links-tournament-leaderboard/static/css/main.fd42ff4a.chunk.css.map",
+    "static/js/2.1676e3d9.chunk.js.LICENSE.txt": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e95cb30.js",
-    "static/js/2.66a9bc22.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c9f1b2b0.chunk.js"
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.1676e3d9.chunk.js",
+    "static/css/main.fd42ff4a.chunk.css",
+    "static/js/main.c51b3f09.chunk.js"
   ]
 }
