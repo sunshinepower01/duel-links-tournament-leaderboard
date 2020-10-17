@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24585cac08845eb7958bdc5b291dcefe",
+    "revision": "bb18caf9ca890192278ea4c1bc7a9565",
     "url": "/duel-links-tournament-leaderboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duel-links-tournament-leaderboard/static/css/2.e10332d9.chunk.css"
   },
   {
-    "revision": "b2c2b0a01bacae54dd95",
+    "revision": "53794485e9a11107ff60",
     "url": "/duel-links-tournament-leaderboard/static/css/main.fd42ff4a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2c2b0a01bacae54dd95",
-    "url": "/duel-links-tournament-leaderboard/static/js/main.c51b3f09.chunk.js"
+    "revision": "53794485e9a11107ff60",
+    "url": "/duel-links-tournament-leaderboard/static/js/main.bb661489.chunk.js"
   },
   {
     "revision": "218fca10509ae96b612b",
