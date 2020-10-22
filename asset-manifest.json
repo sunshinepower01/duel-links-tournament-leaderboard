@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/duel-links-tournament-leaderboard/static/css/main.fd42ff4a.chunk.css",
-    "main.js": "/duel-links-tournament-leaderboard/static/js/main.c6c0306f.chunk.js",
-    "main.js.map": "/duel-links-tournament-leaderboard/static/js/main.c6c0306f.chunk.js.map",
+    "main.js": "/duel-links-tournament-leaderboard/static/js/main.88d7ae0e.chunk.js",
+    "main.js.map": "/duel-links-tournament-leaderboard/static/js/main.88d7ae0e.chunk.js.map",
     "runtime-main.js": "/duel-links-tournament-leaderboard/static/js/runtime-main.0e95cb30.js",
     "runtime-main.js.map": "/duel-links-tournament-leaderboard/static/js/runtime-main.0e95cb30.js.map",
     "static/css/2.e10332d9.chunk.css": "/duel-links-tournament-leaderboard/static/css/2.e10332d9.chunk.css",
     "static/js/2.1676e3d9.chunk.js": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js",
     "static/js/2.1676e3d9.chunk.js.map": "/duel-links-tournament-leaderboard/static/js/2.1676e3d9.chunk.js.map",
     "index.html": "/duel-links-tournament-leaderboard/index.html",
-    "precache-manifest.1d2bd7cf1b26f595d27327a488275c5f.js": "/duel-links-tournament-leaderboard/precache-manifest.1d2bd7cf1b26f595d27327a488275c5f.js",
+    "precache-manifest.bda55be790c3ed6935df445563c6f6e6.js": "/duel-links-tournament-leaderboard/precache-manifest.bda55be790c3ed6935df445563c6f6e6.js",
     "service-worker.js": "/duel-links-tournament-leaderboard/service-worker.js",
     "static/css/2.e10332d9.chunk.css.map": "/duel-links-tournament-leaderboard/static/css/2.e10332d9.chunk.css.map",
     "static/css/main.fd42ff4a.chunk.css.map": "/duel-links-tournament-leaderboard/static/css/main.fd42ff4a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.e10332d9.chunk.css",
     "static/js/2.1676e3d9.chunk.js",
     "static/css/main.fd42ff4a.chunk.css",
-    "static/js/main.c6c0306f.chunk.js"
+    "static/js/main.88d7ae0e.chunk.js"
   ]
 }
