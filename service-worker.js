@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/duel-links-tournament-leaderboard/precache-manifest.71599078b2af14732924251ec235f006.js"
+  "/duel-links-tournament-leaderboard/precache-manifest.15f7825f04db5e2ebbc9a098b989db9d.js"
 );
 
 self.addEventListener('message', (event) => {
